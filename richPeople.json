@@ -1,0 +1,144 @@
+{
+  "people": [
+    {
+      "imie": "Elon",
+      "nazwisko":"Musk",
+      "wiek": 51,
+      "majatek": 255,
+      "zdjecie": "https://pl.wikipedia.org/wiki/Plik:Elon_Musk_Royal_Society.jpg",
+      "narodowosc": "poludniowoafrykanska",
+      "miejsce_i_data_urodzenia":{
+        "miejsce": "Pretoria",
+        "data": "26-06-1971"
+      },
+      "adres_zamieszkania": "Los Angeles",
+      "najpopularniejsze_przedsiebiorstwo": "Tesla"
+    },
+    {
+      "imie": "Jeffrey",
+      "nazwisko": "Bezos",
+      "wiek": 57,
+      "majatek": 137,
+      "zdjecie": "https://pl.wikipedia.org/wiki/Plik:Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_(39074799225)_(cropped).jpg",
+      "narodowosc": "amerykanska",
+      "miejsce_i_data_urodzenia":{
+        "miejsce": "Albuquerque",
+        "data": "12-01-1964"
+      },
+      "adres_zamieszkania": "New York",
+      "najpopularniejsze_przedsiebiorstwo": "Amazon"
+    },
+    {
+      "imie": "Bernald",
+      "nazwisko": "Arnault",
+      "wiek": 73,
+      "majatek": 150,
+      "zdjecie": "https://pl.wikipedia.org/wiki/Plik:Bernard_Arnault_(3)_-_2017_(cropped).jpg",
+      "narodowosc": "francuz",
+      "miejsce_i_data_urodzenia":{
+        "miejsce": "Roubaix",
+        "data": "05-05-1949"
+      },
+      "adres_zamieszkania": "Belgia",
+      "najpopularniejsze_przedsiebiorstwo": "LVMH"
+    },
+    {
+      "imie": "Bill",
+      "nazwisko": "Gates",
+      "wiek": 67,
+      "majatek": 106,
+      "zdjecie": "https://pl.wikipedia.org/wiki/Plik:Bill_Gates_2018.jpg",
+      "narodowosc": "amerykanska",
+      "miejsce_i_data_urodzenia":{
+        "miejsce": "Seattle",
+        "data": "28-10-1955"
+      },
+      "adres_zamieszkania": "USA",
+      "najpopularniejsze_przedsiebiorstwo": "Microsoft"
+    },
+    {
+      "imie": "Warren",
+      "nazwisko": "Buffett",
+      "wiek": 92,
+      "majatek": 84,
+      "zdjecie": "https://pl.wikipedia.org/wiki/Plik:Warren_Buffett_KU_Visit.jpg",
+      "narodowosc": "amerykanska",
+      "miejsce_i_data_urodzenia":{
+        "miejsce": "Omaha",
+        "data": "30-08-1930"
+      },
+      "adres_zamieszkania": "USA",
+      "najpopularniejsze_przedsiebiorstwo": "Berkshire Hathaway"
+    },
+    {
+      "imie": "Larry",
+      "nazwisko": "Page",
+      "wiek": 49,
+      "majatek": 84,
+      "zdjecie": "https://pl.wikipedia.org/wiki/Plik:Larry_Page_in_the_European_Parliament,_17.06.2009.jpg",
+      "narodowosc": "amerykanska",
+      "miejsce_i_data_urodzenia":{
+        "miejsce": "Lansing",
+        "data": "26-03-1973"
+      },
+      "adres_zamieszkania": "San Jose",
+      "najpopularniejsze_przedsiebiorstwo": "Alphabet"
+    },
+    {
+      "imie": "Sergey",
+      "nazwisko": "Brin",
+      "wiek": 49,
+      "majatek": 81,
+      "zdjecie": "https://pl.wikipedia.org/wiki/Plik:Sergey_Brin_cropped.jpg",
+      "narodowosc": "rosyjska",
+      "miejsce_i_data_urodzenia":{
+        "miejsce": "Moskwa",
+        "data": "21-08-1973"
+      },
+      "adres_zamieszkania": "California",
+      "najpopularniejsze_przedsiebiorstwo": "Alphabet"
+    },
+    {
+      "imie": "Larry",
+      "nazwisko": "Ellison",
+      "wiek": 78,
+      "majatek": 113,
+      "zdjecie": "https://pl.wikipedia.org/wiki/Plik:Larry_Ellison_picture.png",
+      "narodowosc": "amerykanska",
+      "miejsce_i_data_urodzenia":{
+        "miejsce": "New York",
+        "data": "17-08-1944"
+      },
+      "adres_zamieszkania": "California",
+      "najpopularniejsze_przedsiebiorstwo": "Oracle Corporation"
+    },
+    {
+      "imie": "Steve",
+      "nazwisko": "Ballmer",
+      "wiek": 68,
+      "majatek": 80,
+      "zdjecie": "https://pl.wikipedia.org/wiki/Plik:Steve_Ballmer_2014.jpg",
+      "narodowosc": "amerykanska",
+      "miejsce_i_data_urodzenia":{
+        "miejsce": "Detroit",
+        "data": "24-03-1956"
+      },
+      "adres_zamieszkania": "Seattle",
+      "najpopularniejsze_przedsiebiorstwo": "Microsoft"
+    },
+    {
+      "imie": "Mukesh",
+      "nazwisko": "Ambani",
+      "wiek": 69,
+      "majatek": 85,
+      "zdjecie": "https://pl.wikipedia.org/wiki/Plik:Mukesh_Ambani.jpg",
+      "narodowosc": "indyjska",
+      "miejsce_i_data_urodzenia":{
+        "miejsce": "Aden",
+        "data": "19-04-1957"
+      },
+      "adres_zamieszkania": "Mumbai",
+      "najpopularniejsze_przedsiebiorstwo": "Reliance Industries Limited"
+    }
+  ]
+}
