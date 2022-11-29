@@ -1,6 +1,6 @@
 {
   "people": [
-    {
+    { "id": "1",
       "imie": "Elon",
       "nazwisko":"Musk",
       "wiek": 51,
@@ -15,6 +15,7 @@
       "najpopularniejsze_przedsiebiorstwo": "Tesla"
     },
     {
+      "id": "2",
       "imie": "Jeffrey",
       "nazwisko": "Bezos",
       "wiek": 57,
@@ -29,6 +30,7 @@
       "najpopularniejsze_przedsiebiorstwo": "Amazon"
     },
     {
+      "id": "3",
       "imie": "Bernald",
       "nazwisko": "Arnault",
       "wiek": 73,
@@ -43,6 +45,7 @@
       "najpopularniejsze_przedsiebiorstwo": "LVMH"
     },
     {
+      "id": "4",
       "imie": "Bill",
       "nazwisko": "Gates",
       "wiek": 67,
@@ -57,6 +60,7 @@
       "najpopularniejsze_przedsiebiorstwo": "Microsoft"
     },
     {
+      "id": "5",
       "imie": "Warren",
       "nazwisko": "Buffett",
       "wiek": 92,
@@ -71,6 +75,7 @@
       "najpopularniejsze_przedsiebiorstwo": "Berkshire Hathaway"
     },
     {
+      "id": "6",
       "imie": "Larry",
       "nazwisko": "Page",
       "wiek": 49,
@@ -85,6 +90,7 @@
       "najpopularniejsze_przedsiebiorstwo": "Alphabet"
     },
     {
+      "id": "7",
       "imie": "Sergey",
       "nazwisko": "Brin",
       "wiek": 49,
@@ -99,6 +105,7 @@
       "najpopularniejsze_przedsiebiorstwo": "Alphabet"
     },
     {
+      "id": "8",
       "imie": "Larry",
       "nazwisko": "Ellison",
       "wiek": 78,
@@ -113,6 +120,7 @@
       "najpopularniejsze_przedsiebiorstwo": "Oracle Corporation"
     },
     {
+      "id": "9",
       "imie": "Steve",
       "nazwisko": "Ballmer",
       "wiek": 68,
@@ -127,6 +135,7 @@
       "najpopularniejsze_przedsiebiorstwo": "Microsoft"
     },
     {
+      "id": "10",
       "imie": "Mukesh",
       "nazwisko": "Ambani",
       "wiek": 69,
